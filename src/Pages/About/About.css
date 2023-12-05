@@ -1,0 +1,22 @@
+.About-main{
+    height:750px;
+    background-color:#040720;
+}
+/* .first{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.second{
+    display:flex;
+    justify-content: center;
+    align-items: center; 
+} */
+.title{
+color:white;
+}
+.content{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
