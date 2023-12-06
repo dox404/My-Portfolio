@@ -6,7 +6,7 @@ function Skills() {
       <section id='skills'>
       
         <div className="skill-main">
-        <h1 id="title">Skills</h1>
+        <center><h1 id="title">Skills</h1></center>
           <div className='content'>
             
             
@@ -16,6 +16,7 @@ function Skills() {
             <img src={require('./images/node.png')} className="skill-photo" />
             <img src={require('./images/pythonn.png')} className="skill-photo" />
             <img src={require('./images/react.png')} className="skill-photo" />
+            <img src={require('./images/github..png')} className="skill-photo" />
 
             
           </div>
