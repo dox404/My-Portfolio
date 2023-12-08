@@ -51,9 +51,9 @@ function NavBar() {
                     <li>
                         <Link to='#skills' smooth>Skills</Link>
                     </li>
-                    <li>
+                    {/* <li>
                         <Link to='#about' smooth>About</Link>
-                    </li>
+                    </li> */}
                     <li>
                         <Link to='#contact' smooth>Contact</Link>
                     </li>
