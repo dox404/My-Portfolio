@@ -9,6 +9,7 @@ import HomePage from '../../Pages/Home/Home'
 import Skills from '../../Pages/Skills/Skills'
 import About from '../../Pages/About/About'
 import Contact from '../../Pages/Contact/Contact'
+import Projects from '../../Pages/Projects/Projects'
 
 function NavBar() {
     return (
@@ -50,6 +51,9 @@ function NavBar() {
                     </li>
                     <li>
                         <Link to='#skills' smooth>Skills</Link>
+                    </li>
+                    <li>
+                        <Link to='#projects' smooth>Projects</Link>
                     </li>
                     {/* <li>
                         <Link to='#about' smooth>About</Link>
