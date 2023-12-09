@@ -5,6 +5,7 @@ import HomePage from './Pages/Home/Home'
 import Skills from './Pages/Skills/Skills'
 import About from './Pages/About/About'
 import Contact from './Pages/Contact/Contact'
+import Projects from './Pages/Projects/Projects'
 import Routes from './Routes/Route'
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <HomePage />
       {/* <About /> */}
       <Skills />
+      <Projects/>
       
       <Contact />
 
