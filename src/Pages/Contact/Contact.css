@@ -2,3 +2,16 @@
     height:750px;
     background-color:#040720;
 }
+
+.main{
+    border:1px solid white;
+    margin-top:200px;
+    background-color:rgb(203, 203, 203);
+}
+
+.contacts-img{
+    height:200px;
+    width:200px;
+    /* border-radius:113px; */
+    border: 1px;
+}
