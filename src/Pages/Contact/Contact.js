@@ -24,7 +24,7 @@ function Contact() {
                                     
                                     <a href="https://www.facebook.com/muktarul.hoque.902/" target="_blank"><img className="contacts-img" src={require("./facebook.png")}/></a>
                                     
-                                    <a href="muktarul.hoque01@gmail.com" target="_blank"><img className="contacts-img" src={require("./mail.png")}/></a>
+                                    {/* <a href="muktarul.hoque01@gmail.com" target="_blank"><img className="contacts-img" src={require("./mail.png")}/></a> */}
                                     <a href="https://leetcode.com/ddox404/" target="_blank"><img className="contacts-img" src={require("./leetcode.png")}/></a>
                                     
                                     {/* <img className="contacts-img" src={require("./instagram.png")}/> */}

@@ -18,7 +18,7 @@ function Home() {
 
                                             <Typewriter
                                                 words={[' Muktarul Hoque']}
-                                                // loop={5}
+                                                loop={5}
                                                 cursor
                                                 cursorStyle='|'
                                                 typeSpeed={50}
