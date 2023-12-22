@@ -1,16 +1,20 @@
-h1{
+.page-title{
     color:white;
-    display:flex;
+    /* display:flex;
     justify-content: center;
-    align-items: center; 
+    align-items: center;  */
 }
 .Projects-main{
     border:1px solid white;
-    height:750px;
+    height:auto;
+   
 }
 
 .card{
     background-color:#040720;
+    background-color:#6afff8;
     border:1px solid white;
     width:400px;
 }
+
+
