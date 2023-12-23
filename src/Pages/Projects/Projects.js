@@ -33,6 +33,13 @@ function Projects() {
             description: " A deep learning project using the YOLO object detection model that is trained in the Brain Tumor dataset. Here the YOLO v8 is used.The model is trained upto 100 epochs that can give quite good accuracy.",
             TechStack: "ultralytics,pandas,numpy,matplotlib,OpenCv",
             Url: "https://colab.research.google.com/drive/1KFyT1cqoDqs7Ojc97RXoa6oHwdBbpnxY?usp=sharing"
+        },
+        {
+            id: "04",
+            prjectName: "Brain tumor detection using deep learning",
+            description: " A deep learning project using the YOLO object detection model that is trained in the Brain Tumor dataset. Here the YOLO v8 is used.The model is trained upto 100 epochs that can give quite good accuracy.",
+            TechStack: "ultralytics,pandas,numpy,matplotlib,OpenCv",
+            Url: "https://colab.research.google.com/drive/1KFyT1cqoDqs7Ojc97RXoa6oHwdBbpnxY?usp=sharing"
         }
 
     ]

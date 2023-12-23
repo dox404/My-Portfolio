@@ -1,5 +1,6 @@
 import React from 'react'
 import './Contact.css'
+import 'react-bootstrap'
 function Contact() {
     return (
         <>
@@ -31,12 +32,18 @@ function Contact() {
 
 
 <footer className="footer-main">
-<h1 className="item">Muktarul Hoque</h1>
-{/* <h1 className="item">Muktarul Hoque</h1>
-<h1 className="item">Muktarul Hoque</h1>
-<h1 className="item">Muktarul Hoque</h1>
-<h1 className="item">Muktarul Hoque</h1>
-<p>lorem3utqgfsguoefbdsfadvnmgpubdvnthdvngorhdgtfjdvgyfhjrieofjkhfij</p> */}
+<div className="container">
+    <div className="row">
+        <div classname="col-6">
+        <h1 className="item">Muktarul Hoque</h1>
+        </div>
+        <div className="col-6">
+            <h1>Something</h1>
+        </div>
+    </div>
+</div>
+
+<p>Email: muktarul.hoque01@gmail.com</p>
 </footer>
 
 
