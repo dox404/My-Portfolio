@@ -1,10 +1,11 @@
 .skill-main{
-    height:750px;
+    height:100vh;
     background-color:#040720;
     border:1px solid white;
 }
 #title{
     color:white;
+    margin-top:3rem;
 }
 .content{
     display:flex;

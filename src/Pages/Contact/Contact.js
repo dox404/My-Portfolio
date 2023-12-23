@@ -31,7 +31,12 @@ function Contact() {
 
 
 <footer className="footer-main">
-
+<h1 className="item">Muktarul Hoque</h1>
+{/* <h1 className="item">Muktarul Hoque</h1>
+<h1 className="item">Muktarul Hoque</h1>
+<h1 className="item">Muktarul Hoque</h1>
+<h1 className="item">Muktarul Hoque</h1>
+<p>lorem3utqgfsguoefbdsfadvnmgpubdvnthdvngorhdgtfjdvgyfhjrieofjkhfij</p> */}
 </footer>
 
 
