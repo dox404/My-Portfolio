@@ -8,7 +8,6 @@ function Home() {
         <>
             <section id="home">
                 <main className="Home-main">
-
                     <div className='photo-intro'>
                         <div className='container'>
                             <div className='row content'>
