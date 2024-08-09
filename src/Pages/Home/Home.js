@@ -15,7 +15,7 @@ function Home() {
                                     <h1>Hi, I am
                                         <span style={{ color: 'coral', fontWeight: 'bold' }}>
                                             <Typewriter
-                                                words={[' Muktarul Hoque']}
+                                                words={[' Hoque']}
                                                 loop={5}
                                                 cursor
                                                 cursorStyle='|'
